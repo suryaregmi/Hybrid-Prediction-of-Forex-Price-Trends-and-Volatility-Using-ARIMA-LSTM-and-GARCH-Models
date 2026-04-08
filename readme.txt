@@ -1,0 +1,1 @@
+This project was made using python 3.12 . and the necessary files are Forex_OHLC_50k_Dataset.csv and when you are running the code it might take time as it’s a hybrid code and all the out put will be saved to hybrid_outputs.
