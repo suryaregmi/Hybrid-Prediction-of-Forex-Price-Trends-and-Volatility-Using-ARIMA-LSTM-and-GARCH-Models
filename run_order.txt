@@ -1,0 +1,6 @@
+Run order:
+1. visualise_data.py
+2. arima_analysis.py
+3. lstm_model.py
+4. garch_model.py
+5. hybrid_model.py
